@@ -58,8 +58,10 @@ a:active {
 	height: 1%;
 }
 .up_not-to_up button {
-	background: #d9f4f4;
 	border: none;
+}
+.up_not-to_up button:active {
+	background: #d9f4f4;
 }
 .profile-img {
 	border-radius: 100%;
