@@ -39,6 +39,7 @@ a:active {
 	text-align: center;
 	/* padding: 1%;
 	overflow: auto; */
+	line-height: 1.1;
 }
 .window_up_stuff {
 	overflow: auto;
