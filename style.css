@@ -60,7 +60,7 @@ a:active {
 .up_not-to_up button {
 	border: none;
 }
-.up_not-to_up button:active {
+.up_not-to_up button:hover {
 	background: #d9f4f4;
 }
 .profile-img {
