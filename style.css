@@ -75,6 +75,7 @@ a:active {
 	line-height: 0.3;
 }
 
+
 /* Nertivia logo */
 .nertivia_logo:link {
 	background: #047dff;
@@ -91,4 +92,9 @@ a:active {
 .nertivia_logo:active {
 	background: #047dff;
 	text-decoration: none;
+}
+
+
+footer {
+	font-size: medium;
 }
