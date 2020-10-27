@@ -77,6 +77,9 @@ a:active {
 
 
 /* Nertivia logo */
+.nertivia_logo {
+	background: #047dff;
+}
 .nertivia_logo:link {
 	background: #047dff;
 	text-decoration: none;
