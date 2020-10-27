@@ -60,8 +60,11 @@ a:active {
 .up_not-to_up button {
 	border: none;
 }
-.up_not-to_up button:active {
+.up_not-to_up button:hover {
 	background: #d9f4f4;
+}
+.up_not-to_up button:active {
+	background: #cdd8d8;
 }
 .profile-img {
 	border-radius: 100%;
@@ -70,4 +73,22 @@ a:active {
 }
 .mini_head {
 	line-height: 0.3;
+}
+
+/* Nertivia logo */
+.nertivia_logo:link {
+	background: #047dff;
+	text-decoration: none;
+}
+.nertivia_logo:visited {
+	background: #047dff;
+	text-decoration: none;
+}
+.nertivia_logo:hover {
+	background: #0054b2;
+	text-decoration: underline;
+}
+.nertivia_logo:active {
+	background: #047dff;
+	text-decoration: none;
 }
