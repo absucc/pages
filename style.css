@@ -1,4 +1,20 @@
+/* @import url('https://unpkg.com/purecss@2.0.3/build/pure-min.css');
+@import url('https://unpkg.com/spectre.css/dist/spectre.min.css');
+@import url('https://unpkg.com/spectre.css/dist/spectre-exp.min.css');
+@import url('https://unpkg.com/spectre.css/dist/spectre-icons.min.css'); */
+@import url('https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* @import url('https://lucas64.tk/redefault/redefault.min.css'); */
+
+header {
+	background: white;
+	/* border-radius: 5px; */
+}
+
+.content {
+	margin: auto;
+	padding: 2% 5%;
+}
 
 body {
 	background: grey;
@@ -6,7 +22,6 @@ body {
 	justify-content: center;
 	line-height: 75%;
 }
-
 
 /* Links */
 a:link {
