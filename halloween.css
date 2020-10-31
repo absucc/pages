@@ -1,0 +1,129 @@
+/* @import url('https://unpkg.com/purecss@2.0.3/build/pure-min.css'); */
+@import url('https://unpkg.com/spectre.css/dist/spectre.min.css');
+@import url('https://unpkg.com/spectre.css/dist/spectre-exp.min.css');
+@import url('https://unpkg.com/spectre.css/dist/spectre-icons.min.css');
+@import url('https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://lucas64.tk/redefault/redefault.min.css');
+
+header {
+	background: white;
+	/* border-radius: 5px; */
+}
+
+.content {
+	margin: auto;
+	padding: 2% 5%;
+}
+
+body {
+  color: white;
+	background: black;
+	font-family: 'Poppins', sans-serif;
+	justify-content: center;
+	line-height: 75%;
+}
+
+/* Links */
+a:link {
+	color: orange;
+	text-decoration: none;
+}
+a:visited {
+	color: orange;
+	text-decoration: none;
+}
+a:hover {
+	color: #d88c00;
+	text-decoration: underline;
+}
+a:active {
+	color: orange;
+	text-decoration: none;
+}
+
+
+#main_stuff {
+	border: 5px;
+	border-style: none outset outset none;
+	margin: 1%;
+	/* width: 50%;
+	position: absolute; */
+	background: rgb(49, 49, 49);
+	text-align: center;
+	/* padding: 1%;
+	overflow: auto; */
+	line-height: 1.3;
+}
+.window_up_stuff {
+	overflow: auto;
+	background: #e5e5e5;
+	/* color: #e5e5e5; */
+	text-align: right;
+	/* line-height: 2; */
+	padding: 0.5% 1%;
+}
+.window_up_stuff button {
+	background: #f4f4f4;
+	border: none;
+}
+.up_not-to_up {
+	background: #f4f4f4;
+	text-align: left;
+	height: 1%;
+}
+.up_not-to_up button {
+	border: none;
+}
+.up_not-to_up button:hover {
+	background: #d9f4f4;
+}
+.up_not-to_up button:active {
+	background: #cdd8d8;
+}
+.profile-img, #profile-img {
+	border-radius: 100%;
+	max-width: 10%;
+	height: auto;
+}
+.avatar {
+  background: url("https://avatars2.githubusercontent.com/u/57920717?s=460&u=eb45becf22894dacc830d3f8b278b7bcad10497e&v=4") center;
+  background-repeat: no-repeat;
+  background-attachment: default;
+  background-position: center;
+  background-size: 100% 100%;
+  border-radius: 100%;
+	width: 50%;
+  height: auto;
+}
+.mini_head {
+	line-height: 0.3;
+}
+
+
+/* Nertivia logo */
+.nertivia_logo {
+  border-radius: 100%;
+  background: orange;
+}
+.nertivia_logo:link {
+	background: orange;
+	text-decoration: none;
+}
+.nertivia_logo:visited {
+	background: orange;
+	text-decoration: none;
+}
+.nertivia_logo:hover {
+	background: #d88c00;
+	text-decoration: underline;
+}
+.nertivia_logo:active {
+	background: orange;
+	text-decoration: none;
+}
+
+
+footer {
+	font-size: medium;
+}
