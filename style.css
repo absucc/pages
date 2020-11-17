@@ -126,3 +126,8 @@ a:active {
 footer {
 	font-size: medium;
 }
+
+.error_number {
+  font-size: 1000%;
+  font-weight: bold;
+}
