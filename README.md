@@ -1,14 +1,14 @@
 ## My website
 
-#### It works in:
+### It works in:
 - [Apache Web Server](https://httpd.apache.org)
 - [GitHub Pages](https://pages.github.com)
 - [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages)
 - [Codeberg Pages](https://docs.codeberg.org/codeberg-pages)
 - Alone (except error pages)
 
-#### More
-##### Other of my URLs:
+### More
+#### Other of my URLs:
 - l64.repl.co
 - l64.github.io
 - l64.gitlab.io
