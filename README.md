@@ -11,4 +11,4 @@ Coming soon: Dark theme & light/dark theme switcher
 
 **I'm proud of this website :-)**
 
-(C)2020 [Lucas](https://l64.gitlab.io) - [Source code](https://git.neko.bar/lucas/website) - [Mirror](https://gitlab.com/L64/L64.gitlab.io) - [Published webpage](https://l64.gitlab.io) - [![pipeline status](https://gitlab.com/L64/L64.gitlab.io/badges/master/pipeline.svg)](https://gitlab.com/L64/L64.gitlab.io/-/commits/master)
+(C)2020 [Lucas](https://lucas.codeberg.page) - [Source code](https://codeberg.org/lucas/pages) - [Mirror](https://git.neko.bar/lucas/website) - [Published webpage](https://lucas.codeberg.page)
