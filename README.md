@@ -1,6 +1,6 @@
-# My website
+## My website
 
-## It works with:
+### It works with:
 - [Apache Web Server](https://httpd.apache.org)
 - [GitHub Pages](https://pages.github.com)
 - [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages)
