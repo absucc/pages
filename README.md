@@ -7,13 +7,14 @@
 - [Codeberg Pages](https://docs.codeberg.org/codeberg-pages)
 - Alone (except error pages)
 
+### Coming soon
+- Dark theme & light/dark theme switcher
+
 ### More
 #### Other of my URLs:
 - l64.repl.co
 - l64.github.io
 - l64.gitlab.io
-
-Coming soon: Dark theme & light/dark theme switcher
 
 **I'm proud of this website :-)**
 
