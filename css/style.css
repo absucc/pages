@@ -40,7 +40,8 @@ a:visited {
 }
 a:hover {
 	color: #0054b2;
-	text-decoration: underline;
+	/* text-decoration: underline; */
+	text-decoration: none;
 }
 a:active {
 	color: #047dff;
@@ -120,7 +121,8 @@ a:active {
 }
 .nertivia_logo:hover {
 	background: #0054b2;
-	text-decoration: underline;
+	/* text-decoration: underline; */
+	text-decoration: none;
 }
 .nertivia_logo:active {
 	background: #047dff;
