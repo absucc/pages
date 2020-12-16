@@ -18,4 +18,4 @@
 
 **I'm proud of this website :-)**
 
-(C)2020 [Lucas](https://lucas.codeberg.page) - [Source code](https://codeberg.org/lucas/pages) - [Mirror](https://git.neko.bar/lucas/website)
+(C)2020 [Lucas](https://lucas.codeberg.page) - [Source code](https://codeberg.org/lucas/pages)
