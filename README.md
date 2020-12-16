@@ -13,8 +13,8 @@
 ### More
 #### Other of my URLs:
 - [l64.repl.co](https://l64.repl.co)
-- [l64.github.io](https://l64.github.io)
-- [l64.gitlab.io](https://l64.gitlab.io) (the main repo don't works)
+- [absucc.github.io](https://l64.github.io)
+- [absucc.gitlab.io](https://l64.gitlab.io) (the main repo don't works)
 
 **I'm proud of this website :-)**
 
